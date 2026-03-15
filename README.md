@@ -1,75 +1,95 @@
+<!-- ═══════════════════════  HEADER BANNER  ═══════════════════════ -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Junaid&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Sr.%20DevOps%20%26%20Python%20Engineer%20%7C%20Cloud%20Architect%20%7C%20LLM%20Builder&descAlignY=60&descColor=F0C040" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:1a0533,60:0f2460,100:0D0D0D&height=240&section=header&text=Muhammad%20Junaid&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=⚡%20Sr.%20DevOps%20%26%20Python%20Engineer%20%7C%20Cloud%20Architect%20%7C%20LLM%20Builder%20⚡&descAlignY=62&descColor=F0C040&descSize=20" />
 </div>
 
+<!-- ═══════════════════════  TYPING ANIMATION  ═══════════════════════ -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=F75C7E&center=true&vCenter=true&width=750&lines=🚀+Sr.+DevOps+%26+Python+Engineer;☁️+AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;🐍+FastAPI+%7C+Django+%7C+Flask+Expert;🔒+HashiCorp+Vault+%7C+Zero-Trust+Security;🤝+Building+Scalable+%26+Intelligent+Systems)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=F75C7E&background=0D0D0D00&center=true&vCenter=true&width=780&lines=🚀+Sr.+DevOps+%26+Python+Engineer+%40+Tekxai+LLC;☁️+AWS+·+Docker+·+Kubernetes+·+Terraform+·+Ansible;🐍+FastAPI+·+Django+·+Flask+·+DRF+Expert;🔒+HashiCorp+Vault+·+Snyk+·+Zero-Trust+Security;🧠+OpenAI+·+Claude+·+Grok+·+Ollama+·+RAG+Builder;📍+Lahore%2C+Pakistan+🇵🇰" alt="Typing SVG" />
+  </a>
 </div>
 
+<br/>
+
+<!-- ═══════════════════════  BADGES ROW  ═══════════════════════ -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Muhammadjunaid7864&label=👁️%20Profile%20Views&color=brightgreen&style=flat-square)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Muhammadjunaid7864?label=👥%20Followers&style=flat-square&color=orange)](https://github.com/Muhammadjunaid7864)
+![Profile Views](https://komarev.com/ghpvc/?username=JunaidYodo&label=👁️%20Profile%20Views&color=FF6B6B&style=flat-square)
+&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/JunaidYodo?label=👥%20Followers&style=flat-square&color=F0C040)](https://github.com/JunaidYodo)
+&nbsp;&nbsp;
+![Years Badge](https://img.shields.io/badge/Experience-3%2B%20Years-brightgreen?style=flat-square)
+&nbsp;&nbsp;
+![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C7B7?style=flat-square)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- ═══════════════════════  ABOUT ME — VISUAL CARDS  ═══════════════════════ -->
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-```python
-class MuhammadJunaid:
+<table>
+<tr>
+<td valign="top" width="55%">
 
-    # ── Identity ──────────────────────────────────────────────────────────
-    name         = "Muhammad Junaid"
-    location     = "🇵🇰  Lahore, Punjab, Pakistan"
-    role         = "Sr. DevOps & Python Engineer"
-    company      = "Tekxai LLC"
-    education    = "B.IT — University of Education, Lahore (2022)"
-    website      = "https://mjui-9hxw.vercel.app/"
+### 👋 Hi, I'm Muhammad Junaid!
 
-    # ── What I'm working on ───────────────────────────────────────────────
-    current_focus = {
-        "☁️  Cloud"      : "AWS · Terraform · Kubernetes · Heroku · Railway · Render",
-        "🚀 CI/CD"       : "Blue-Green Deployments · GitHub Actions · GitLab CI",
-        "🔒 Security"    : "HashiCorp Vault · Boundary · Snyk · Zero-Trust IAM",
-        "🐍 Backend"     : "FastAPI · Django · Flask · DRF · Celery · WebSockets",
-        "🧠 LLM / RAG"   : "OpenAI · Claude · Grok · Ollama · LangChain · Qdrant",
-        "🔭 Monitoring"  : "Sentry · Datadog · CloudWatch · Splunk",
-        "📐 ML"          : "Embeddings · Vector Search · Prompt Engineering · RAG",
-    }
+I'm a **Senior DevOps & Python Engineer** based in 🇵🇰 **Lahore, Pakistan** with **3+ years** of hands-on experience building, automating, and securing cloud-native systems.
 
-    # ── Superpowers ───────────────────────────────────────────────────────
-    strengths = [
-        "⚡  Design scalable, high-availability cloud architectures",
-        "🔁  Automate everything — infra, pipelines, secrets, deploys",
-        "🧩  Integrate LLMs into real-world production systems",
-        "🛡️  Enforce zero-trust security across multi-cloud environments",
-        "📊  Build intelligent data pipelines with vector databases",
-    ]
-
-    # ── Fun facts ─────────────────────────────────────────────────────────
-    fun_facts = {
-        "⚙️  Lines of Terraform" : "Lost count...",
-        "🐳 Containers shipped"  : "Too many to dock",
-        "☕ Coffee → Code"       : "Confirmed correlation",
-        "🌙 Best coding hours"   : "When the world sleeps",
-    }
-
-    def motto(self) -> str:
-        return "🚀  First, solve the problem. Then, ship clean code."
-```
-
-<br clear="right"/>
+I love turning complex infrastructure challenges into clean, reliable, and automated solutions — from spinning up AWS environments with Terraform, to building AI-powered backends with FastAPI and LLMs.
 
 ---
+
+### 🎯 What I Do
+
+| | Area | Details |
+|:---:|:---|:---|
+| ☁️ | **Cloud & Infra** | AWS · Terraform · Kubernetes · Heroku · Railway · Render |
+| 🚀 | **CI/CD** | Blue-Green Deployments · GitHub Actions · GitLab CI · Jenkins |
+| 🔒 | **Security** | HashiCorp Vault · Boundary · Snyk · Sentry · Zero-Trust IAM |
+| 🐍 | **Backend** | FastAPI · Django · Flask · DRF · Celery · WebSockets |
+| 🧠 | **LLM / RAG** | OpenAI · Claude · Grok · Ollama · LangChain · Qdrant |
+| 🔭 | **Monitoring** | Datadog · Sentry · CloudWatch · Splunk |
+| 📐 | **ML** | Embeddings · Vector Search · Prompt Engineering · RAG |
+
+---
+
+### ⚡ My Superpowers
+
+✅ &nbsp; Design **scalable, high-availability** cloud architectures  
+✅ &nbsp; **Automate everything** — infra, pipelines, secrets, deploys  
+✅ &nbsp; Integrate **LLMs into real-world** production systems  
+✅ &nbsp; Enforce **zero-trust security** across multi-cloud environments  
+✅ &nbsp; Build intelligent data pipelines with **vector databases**  
+
+---
+
+🎓 **Education:** B.IT — University of Education, Lahore *(2022)*  
+🏢 **Currently at:** Tekxai LLC  
+🌐 **Portfolio:** [mjui-9hxw.vercel.app](https://mjui-9hxw.vercel.app/)  
+📬 **Email:** Muhammadjunaid104developer@gmail.com
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="360" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
 
 ## 🌈 Tech Stack & Skills
 
@@ -80,14 +100,14 @@ class MuhammadJunaid:
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-### ⚙️ CI/CD & DevOps Tools
+### ⚙️ CI/CD, DevOps & Security Tools
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
 
 ### 🚢 Deployment Platforms
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -110,14 +130,13 @@ class MuhammadJunaid:
 ### 🧠 LLM, RAG & ML Stack
 ![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logoColor=white&label=OpenAI)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logoColor=white&label=Claude)
-![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logoColor=white&label=Grok)
-![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logoColor=black&label=Ollama&labelColor=black)
+![Grok](https://img.shields.io/badge/Grok-1DA1F2?style=for-the-badge&logoColor=white&label=Grok)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white&label=Ollama)
 ![LangChain](https://img.shields.io/badge/LangChain-00C7B7?style=for-the-badge&logoColor=white&label=LangChain)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white&label=Qdrant)
 ![Whisper](https://img.shields.io/badge/Whisper-FF6F00?style=for-the-badge&logoColor=white&label=Whisper)
 ![RAG](https://img.shields.io/badge/RAG%20Architecture-7C3AED?style=for-the-badge&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F59E0B?style=for-the-badge&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-E11D48?style=for-the-badge&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-6366F1?style=for-the-badge&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=python&logoColor=white)
 
@@ -129,6 +148,7 @@ class MuhammadJunaid:
 
 ### 📡 Monitoring & Observability
 ![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
 
@@ -145,40 +165,46 @@ class MuhammadJunaid:
 
 ---
 
+<!-- ═══════════════════════  GITHUB STATS  ═══════════════════════ -->
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=Muhammadjunaid7864&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=JunaidYodo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=F75C7E&icon_color=F0C040&text_color=FFFFFF" />
 &nbsp;
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadjunaid7864&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidYodo&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=F75C7E&text_color=FFFFFF" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammadjunaid7864&theme=radical&hide_border=true&fire=FF6B6B&ring=F75C7E&currStreakLabel=F0C040)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JunaidYodo&theme=radical&hide_border=true&background=0D0D0D&fire=FF6B6B&ring=F75C7E&currStreakLabel=F0C040&sideLabels=FFFFFF&dates=8B949E)](https://git.io/streak-stats)
 
 </div>
 
 ---
+
+<!-- ═══════════════════════  TROPHIES  ═══════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Muhammadjunaid7864&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=JunaidYodo&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
+
+<!-- ═══════════════════════  PROJECTS  ═══════════════════════ -->
 
 ## 💼 Featured Projects
 
 <div align="center">
 
 | 🎨 | Project | Description | Stack |
-|:---:|---|---|---|
+|:---:|:---|:---|:---|
 | 🏦 | **Abshaar Fintech** | Multi-stage AI transaction classification with confidence scoring & RAG | FastAPI · OpenAI · Qdrant · PostgreSQL |
 | 🎭 | **Role-Play AI** | RAG-based training & assessment platform with real-time WebSockets | FastAPI · RAG · Qdrant · OpenAI |
 | 🔍 | **Ask-Charles** | Image analysis & Q&A with streaming AI responses & ElevenLabs TTS | Django · GPT-4o · ElevenLabs · Stripe |
@@ -193,27 +219,30 @@ class MuhammadJunaid:
 
 ---
 
+<!-- ═══════════════════════  CONTRIBUTION GRAPH  ═══════════════════════ -->
+
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammadjunaid7864&bg_color=141321&color=F75C7E&line=F0C040&point=FF6B6B&area=true&area_color=F75C7E&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JunaidYodo&bg_color=0D0D0D&color=F75C7E&line=F0C040&point=FF6B6B&area=true&area_color=F75C7E&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
 ---
+
+<!-- ═══════════════════════  EXPERIENCE  ═══════════════════════ -->
 
 ## 🏢 Work Experience
 
 <div align="center">
 
 | 🗓️ Period | 🏢 Company | 💼 Role |
-|:---:|---|---|
+|:---:|:---|:---|
 | **Sep 2025 – Present** | 🔷 Tekxai LLC | Sr. DevOps & Python Engineer |
 | **Aug – Nov 2025** | 🟠 CloudEva Tech | Python & DevOps TL *(Contract)* |
 | **Jul – Nov 2025** | 🟣 SharkStack | Python Developer *(Contract)* |
-| **Sep 2023 – Jun 2025** | 🟢 CNC Software LLC | DevOps Engineer & Python Dev |
-| &nbsp; | &nbsp; | *Clients: NBC Universal · Dell · Marriott · OCC* |
+| **Sep 2023 – Jun 2025** | 🟢 CNC Software LLC | DevOps Engineer & Python Dev *(NBC Universal · Dell · Marriott · OCC)* |
 | **Apr – Aug 2023** | 🔵 Tec Spine | Python Developer |
 | **Jan – Apr 2023** | 🩷 Black Silk Studio | Frontend Intern |
 
@@ -221,13 +250,15 @@ class MuhammadJunaid:
 
 ---
 
+<!-- ═══════════════════════  CONNECT  ═══════════════════════ -->
+
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-FF7139?style=for-the-badge)](https://mjui-9hxw.vercel.app/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammadjunaid7864)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JunaidYodo)
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhammadjunaid104developer@gmail.com)
 &nbsp;
@@ -237,13 +268,16 @@ class MuhammadJunaid:
 
 ---
 
+<!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
+
 <div align="center">
 
-### 💡 Quote of the Day
-> *"First, solve the problem. Then, write the code."* — John Johnson
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+
+### 💡 *"First, solve the problem. Then, ship clean code."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:1a0533,60:0f2460,100:0D0D0D&height=140&section=footer" />
 
 </div>
