@@ -72,7 +72,7 @@ I love turning complex infrastructure challenges into clean, reliable, and autom
 🎓 **Education:** B.IT — University of Education, Lahore *(2022)*  
 🏢 **Currently at:** Tekxai LLC  
 🌐 **Portfolio:** [mjui-9hxw.vercel.app](https://mjui-9hxw.vercel.app/)  
-📬 **Email:** Muhammadjunaid104developer@gmail.com
+📬 **Email:** Muhammadjunaid.yodo@gmail.com
 
 </td>
 <td valign="top" width="45%" align="center">
@@ -262,9 +262,9 @@ I love turning complex infrastructure challenges into clean, reliable, and autom
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JunaidYodo)
 &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhammadjunaid104developer@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadjunaid.yodo@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadjunaid7864)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-junaid-920497260/)
 
 </div>
 
