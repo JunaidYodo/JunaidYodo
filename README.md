@@ -1,13 +1,15 @@
 <!-- ═══════════════════════  HEADER BANNER  ═══════════════════════ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:1a0533,60:0f2460,100:0D0D0D&height=240&section=header&text=Muhammad%20Junaid&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=⚡%20Sr.%20DevOps%20%26%20Python%20Engineer%20%7C%20Cloud%20Architect%20%7C%20LLM%20Builder%20⚡&descAlignY=62&descColor=F0C040&descSize=20" />
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Muhammad%20Junaid&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20Sr.%20DevOps%20%26%20Python%20Engineer%20%7C%20Cloud%20Architect%20%7C%20LLM%20Builder%20⚡&descAlignY=60&descColor=FFD700&descSize=18)
+
 </div>
 
 <!-- ═══════════════════════  TYPING ANIMATION  ═══════════════════════ -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=F75C7E&background=0D0D0D00&center=true&vCenter=true&width=780&lines=🚀+Sr.+DevOps+%26+Python+Engineer+%40+Tekxai+LLC;☁️+AWS+·+Docker+·+Kubernetes+·+Terraform+·+Ansible;🐍+FastAPI+·+Django+·+Flask+·+DRF+Expert;🔒+HashiCorp+Vault+·+Snyk+·+Zero-Trust+Security;🧠+OpenAI+·+Claude+·+Grok+·+Ollama+·+RAG+Builder;📍+Lahore%2C+Pakistan+🇵🇰" alt="Typing SVG" />
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=780&lines=🚀+Sr.+DevOps+%26+Python+Engineer+%40+Tekxai+LLC;☁️+AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform+%7C+Ansible;🐍+FastAPI+%7C+Django+%7C+Flask+%7C+DRF+Expert;🔒+HashiCorp+Vault+%7C+Snyk+%7C+Zero-Trust+Security;🧠+OpenAI+%7C+Claude+%7C+Grok+%7C+Ollama+%7C+RAG+Builder;📍+Lahore%2C+Pakistan+🇵🇰)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
@@ -171,15 +173,15 @@ I love turning complex infrastructure challenges into clean, reliable, and autom
 
 <div align="center">
 
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=JunaidYodo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=F75C7E&icon_color=F0C040&text_color=FFFFFF" />
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=JunaidYodo&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 &nbsp;
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidYodo&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=F75C7E&text_color=FFFFFF" />
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidYodo&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JunaidYodo&theme=radical&hide_border=true&background=0D0D0D&fire=FF6B6B&ring=F75C7E&currStreakLabel=F0C040&sideLabels=FFFFFF&dates=8B949E)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JunaidYodo&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -191,7 +193,7 @@ I love turning complex infrastructure challenges into clean, reliable, and autom
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JunaidYodo&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=JunaidYodo&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -278,6 +280,6 @@ I love turning complex infrastructure challenges into clean, reliable, and autom
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:1a0533,60:0f2460,100:0D0D0D&height=140&section=footer" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer)
 
 </div>
