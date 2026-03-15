@@ -1,7 +1,7 @@
 <!-- ═══════════════════════  HEADER BANNER  ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:007CF0&height=240&section=header&text=Muhammad%20Junaid&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=⚡%20Sr.%20DevOps%20%26%20Python%20Engineer%20%7C%20Cloud%20Architect%20%7C%20LLM%20Builder%20⚡&descAlignY=60&descColor=FFD700&descSize=18" />
+<img src="header.png" width="100%" alt="Muhammad Junaid — Sr. DevOps & Python Engineer" />
 
 </div>
 
@@ -280,6 +280,6 @@ I love turning complex infrastructure challenges into clean, reliable, and autom
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,25:00DFD8,50:0070F3,75:7928CA,100:FF0080&height=140&section=footer" />
+<img src="footer.png" width="100%" alt="footer" />
 
 </div>
