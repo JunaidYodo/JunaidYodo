@@ -1,7 +1,73 @@
-<!-- ═══════════════════════  HEADER BANNER  ═══════════════════════ -->
+<!-- ═══════════════════════  HEADER BANNER (pure SVG — always works)  ═══════════════════════ -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Muhammad%20Junaid&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20Sr.%20DevOps%20%26%20Python%20Engineer%20%7C%20Cloud%20Architect%20%7C%20LLM%20Builder%20⚡&descAlignY=60&descColor=FFD700&descSize=18)
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0D0D0D"/>
+      <stop offset="35%"  stop-color="#1a0533"/>
+      <stop offset="70%"  stop-color="#0f2460"/>
+      <stop offset="100%" stop-color="#0D0D0D"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#F75C7E"/>
+      <stop offset="50%"  stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#00C7B7"/>
+    </linearGradient>
+    <!-- wave bottom -->
+    <clipPath id="wave-clip">
+      <rect width="900" height="220"/>
+    </clipPath>
+  </defs>
+
+  <!-- background -->
+  <rect width="900" height="220" fill="url(#bg)" rx="0"/>
+
+  <!-- decorative dots -->
+  <circle cx="60"  cy="40"  r="2.5" fill="#F75C7E" opacity="0.7"/>
+  <circle cx="120" cy="25"  r="1.8" fill="#F0C040" opacity="0.6"/>
+  <circle cx="200" cy="55"  r="2"   fill="#00C7B7" opacity="0.5"/>
+  <circle cx="780" cy="35"  r="2.5" fill="#F75C7E" opacity="0.7"/>
+  <circle cx="840" cy="60"  r="1.8" fill="#F0C040" opacity="0.6"/>
+  <circle cx="700" cy="20"  r="2"   fill="#00C7B7" opacity="0.5"/>
+  <circle cx="450" cy="15"  r="1.5" fill="#FFFFFF"  opacity="0.4"/>
+  <circle cx="320" cy="190" r="2"   fill="#F75C7E"  opacity="0.4"/>
+  <circle cx="600" cy="195" r="2"   fill="#00C7B7"  opacity="0.4"/>
+
+  <!-- glowing orbs -->
+  <ellipse cx="150" cy="110" rx="80" ry="50" fill="#F75C7E" opacity="0.06"/>
+  <ellipse cx="750" cy="110" rx="80" ry="50" fill="#00C7B7" opacity="0.06"/>
+  <ellipse cx="450" cy="100" rx="120" ry="70" fill="#1a0533" opacity="0.3"/>
+
+  <!-- wave shape at bottom -->
+  <path d="M0,170 C150,140 300,200 450,170 C600,140 750,200 900,170 L900,220 L0,220 Z"
+        fill="#0D0D0D" opacity="0.6"/>
+
+  <!-- name -->
+  <text x="450" y="100"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="52" font-weight="700"
+        text-anchor="middle"
+        fill="url(#textGrad)">Muhammad Junaid</text>
+
+  <!-- coloured underline -->
+  <rect x="270" y="110" width="360" height="3" rx="2"
+        fill="url(#textGrad)" opacity="0.8"/>
+
+  <!-- subtitle -->
+  <text x="450" y="148"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="16" font-weight="400"
+        text-anchor="middle"
+        fill="#F0C040">⚡ Sr. DevOps &amp; Python Engineer · Cloud Architect · LLM Builder ⚡</text>
+
+  <!-- location pill -->
+  <rect x="355" y="162" width="190" height="26" rx="13" fill="#F75C7E" opacity="0.18"/>
+  <text x="450" y="180"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="13" text-anchor="middle"
+        fill="#FFFFFF" opacity="0.85">📍 Lahore, Pakistan 🇵🇰</text>
+</svg>
 
 </div>
 
@@ -280,6 +346,17 @@ I love turning complex infrastructure challenges into clean, reliable, and autom
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer)
+<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0D0D0D"/>
+      <stop offset="35%"  stop-color="#0f2460"/>
+      <stop offset="70%"  stop-color="#1a0533"/>
+      <stop offset="100%" stop-color="#0D0D0D"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,40 C150,70 300,10 450,40 C600,70 750,10 900,40 L900,100 L0,100 Z"
+        fill="url(#footerBg)"/>
+</svg>
 
 </div>
